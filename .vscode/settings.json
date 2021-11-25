@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b77d04c6-cd4c-43ab-b0a5-21b96890a21f/resourceGroups/05-RG-Sandbox-Arild/providers/Microsoft.Web/sites/05-wsa-opengov-api",
+    "appService.deploySubpath": "."
+}
