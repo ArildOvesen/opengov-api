@@ -21,8 +21,8 @@ function getData(func, opts, reply){
 function indexHandler(req, reply){
   var msg = {
         "Boards" : "/boards",
-        "Meetings": "/meetings/{boardId}",
-        "Meeting" :"/meeting/{meetingId}",
+        "Meetings": "/Meetings/{boardId}",
+        "Meeting" :"/Meeting/{meetingId}",
         "Details": "/details/{agendaId}"
       }
     ;
