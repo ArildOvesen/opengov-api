@@ -1,8 +1,8 @@
 'use strict';
 
 var config = {
-      "SERVER_PORT" : 443,
-      "HOST" : "https://opengov.cloudapp.net",
+      "SERVER_PORT" : 3000,
+      "HOST" : "http://opengov.cloudapp.net",
       "PATH" : "/Meetings/kristiansund"
     }
   ;
